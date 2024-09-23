@@ -54,6 +54,32 @@ A detailed view to access specific borrower and loan performance data:
 - **Grid View**: Provides an extensive grid layout with all relevant metrics, including borrower profiles, loan performance, and other critical data points.
 
 ---
+## 🛠️ Key Findings
+### **Dashboard 1: Key Findings**
+
+- **Positive Loan Growth:** The total number of loan applications and the amount funded have seen a steady increase, indicating strong demand.
+  
+- **Good Loan Dominance:** Good loans represent **86.2%** of the total portfolio, suggesting a healthy lending process with lower risk.
+
+- **Interest Rate and Risk Correlation:** Higher interest rates seem to be associated with bad loans, as seen with the **13.88%** rate for charged-off loans versus **11.64%** for fully paid loans. This indicates that riskier borrowers may be charged higher interest rates.
+
+- **Improved Cash Flow:** The **Month-over-Month (MoM)** growth in total repayment is **15.84%**, showing positive signs of loan recovery and improved borrower repayment behavior.
+
+- **DTI Insight:** The **Average Debt-to-Income (DTI) ratio** for the overall loan portfolio stands at **13.3%**, reflecting borrowers' ability to manage debt within their income levels.
+
+### **Dashboard 2: Trends and Patterns**
+- **Seasonality**: Loan applications exhibit seasonal variations, with peaks during specific times of the year.
+
+- **State-Specific Demand**: Loan demand varies significantly across different states, highlighting regional preferences.
+
+- **Loan Term Preferences**: The most favored loan term among borrowers is 36 months.
+
+- **Employee Length & Loans**: Employees with longer tenures tend to apply for loans more frequently.
+
+- **Loan Purpose Analysis**: The top reasons for loan applications include debt consolidation, credit card payments, and home improvement projects.
+
+- **Home Ownership & Loans**: Individuals who hold mortgages are more likely to apply for additional loans.
+
 
 ## 📈 Visuals & Charts
 
