@@ -120,13 +120,3 @@ A detailed view to access specific borrower and loan performance data:
 2. Open the `.pbix` file using Power BI Desktop.
 3. Connect to the necessary data sources (SQL/Excel).
 4. Review the visualizations and interact with filters to explore different insights.
-
----
-
-## 📸 Screenshots
-
-| **Dashboard** | **Preview** |
-|---------------|-------------|
-| **Summary**   | ![Summary Dashboard](assets/summary.png) |
-| **Overview**  | ![Overview Dashboard](assets/overview.png) |
-| **Details**   | ![Details Dashboard](assets/details.png) |
