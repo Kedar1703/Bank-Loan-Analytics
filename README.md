@@ -54,7 +54,7 @@ A detailed view to access specific borrower and loan performance data:
 - **Grid View**: Provides an extensive grid layout with all relevant metrics, including borrower profiles, loan performance, and other critical data points.
 
 ---
-## 🛠️ Key Findings
+## 🔍 Key Findings
 ### **Dashboard 1: Key Findings**
 
 - **Positive Loan Growth:** The total number of loan applications and the amount funded have seen a steady increase, indicating strong demand.
