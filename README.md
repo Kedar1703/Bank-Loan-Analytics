@@ -7,8 +7,13 @@ The **Bank Loan Analytics** project aims to provide comprehensive insights into 
 The project includes three dashboards:
 
 1. **Dashboard 1: Summary**
+![Summary Dashboard](path_to_summary_dashboard_image.png)
+
 2. **Dashboard 2: Overview**
+![Overview Dashboard](path_to_overview_dashboard_image.png)
+
 3. **Dashboard 3: Details**
+![Details Dashboard](path_to_details_dashboard_image.png)
 
 ---
 
@@ -111,7 +116,7 @@ A detailed view to access specific borrower and loan performance data:
 
 ## 🚀 How to Run the Project
 
-1. Download the `.pbix` file from the [Power BI Dashboard File](#).
+1. Download the `.pbix` file from the [Power BI Dashboard File](https://github.com/Kedar1703/Bank-Loan-Analytics/tree/main/Power%20BI%20File).
 2. Open the `.pbix` file using Power BI Desktop.
 3. Connect to the necessary data sources (SQL/Excel).
 4. Review the visualizations and interact with filters to explore different insights.
