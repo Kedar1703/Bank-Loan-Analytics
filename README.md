@@ -7,13 +7,13 @@ The **Bank Loan Analytics** project aims to provide comprehensive insights into 
 The project includes three dashboards:
 
 1. **Dashboard 1: Summary**
-![Summary Dashboard](path_to_summary_dashboard_image.png)
+![Screenshot 2024-09-23 203139](https://github.com/user-attachments/assets/cf07c2d8-a8b8-4fcf-8d74-c982e864d19c)
 
 2. **Dashboard 2: Overview**
-![Overview Dashboard](path_to_overview_dashboard_image.png)
+![Screenshot 2024-09-23 203310](https://github.com/user-attachments/assets/6ac53f00-b7f8-461f-963c-09225e484faf)
 
 3. **Dashboard 3: Details**
-![Details Dashboard](path_to_details_dashboard_image.png)
+![Screenshot 2024-09-23 203441](https://github.com/user-attachments/assets/53f16e58-50ac-48ab-9976-01a26d83768c)
 
 ---
 
